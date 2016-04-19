@@ -30,7 +30,7 @@ import org.aopalliance.aop.Advice;
  * such as <b>before</b> and <b>after</b> advice, which need not be
  * implemented using interception.
  *
- * @author Rod Johnson
+ * @author Rod Johnson    
  */
 public interface Advisor {
 
